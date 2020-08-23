@@ -16,7 +16,28 @@
 <br>
 
 ## SCREENSHOTS
-Repo is Private for now so screenshots can be seen in <b> assets/screenshots</b> folder
+
+<br>
+<p align="center">
+  <img src="https://github.com/L3thal14/Pokedex/blob/master/assets/screenshots/homepage.jpg?raw=true"  height="400" />  
+  <br>
+<br>
+   <img src="https://github.com/L3thal14/Pokedex/blob/master/assets/screenshots/moveslist.jpg?raw=true"  height="400" />
+  <br>
+  <br>
+	  <img src="https://github.com/L3thal14/Pokedex/blob/master/assets/screenshots/pokeinfo.jpg?raw=true"  height="400" />
+  <br>
+  <br>
+	  <img src="https://github.com/L3thal14/Pokedex/blob/master/assets/screenshots/typelist.jpg?raw=true"  height="400" />
+	<br>
+  	  <img src="https://github.com/L3thal14/Pokedex/blob/master/assets/screenshots/abilitylist.jpg?raw=true"  height="400" />
+  <br>
+  <img src="https://github.com/L3thal14/Pokedex/blob/master/assets/screenshots/IMG_20200823_200550.jpg.jpg?raw=true"  height="400" />
+  <br>
+  
+  <br>
+  
+</p>
 ## ABOUT THE APP
 
 <b> Features: </b>

@@ -35,7 +35,9 @@
   <br>
   
 </p>
-## ABOUT THE APP
+<br>
+
+##  ABOUT THE APP
 
 <b> Features: </b>
 <ul>

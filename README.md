@@ -5,7 +5,6 @@
 
 #	POKEDEX
 
-<b>NOTE </b> :  Built as Part of the App Development Task Round for IC Recruitment
 <br>
 [![GitHub stars](https://img.shields.io/github/stars/L3thal14/Pokedex.svg?logo=github)]([https://github.com/L3thal14/Pokedex/stargazers](https://github.com/L3thal14/Pokedex/stargazers)) [![GitHub forks](https://img.shields.io/github/forks/L3thal14/Pokedex.svg?logo=github&color=teal)]([https://github.com/L3thal14/Covid-19-Tracker/network/](https://github.com/L3thal14/Pokedex/network/))
 <br>
